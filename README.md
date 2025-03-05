@@ -8,6 +8,11 @@ Once one of the two grids is filled, the winner is displayed. Players can destro
 on the same column as their opponent with the same dice number. Example: If player1 rolls a 5 and places it on column 2 
 and player2 has a 5 on any cell on their own column 2, then they lose that cell number with a 5 in it.
 
+### Technologies Used:
+- C++
+
+- SFML
+
 ### Files:
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
